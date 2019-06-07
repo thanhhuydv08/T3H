@@ -1,5 +1,5 @@
 package swing_Object_BT5_3;
-
+// update github
 import java.awt.Color;
 import java.awt.EventQueue;
 
@@ -28,7 +28,7 @@ public class FrDisplayContentFilm {
 	static int count = 1;
 
 	/**
-	 * Launch the application.
+	 * Laun
 	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
