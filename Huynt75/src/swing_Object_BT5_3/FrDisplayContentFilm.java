@@ -140,11 +140,11 @@ public class FrDisplayContentFilm {
 	 * truyen tham so cho doi tuong film
 	 */
 	public void InsertFilm() {
-		film1 = new Film("Avatar", "Hành �?ộng", "06/06/2019", "Galaxy PN", "E:\\ICON\\iconWeb\\avatar.png");
-		film2 = new Film("Tần th�?i minh Nguyệt", "Hoạt hình 3D", "06/12/2019", "Galaxy PVT",
+		film1 = new Film("Avatar", "Hành Động", "06/06/2019", "Galaxy PN", "E:\\ICON\\iconWeb\\avatar.png");
+		film2 = new Film("Tần thờii minh Nguyệt", "Hoạt hình 3D", "06/12/2019", "Galaxy PVT",
 				"E:\\ICON\\iconWeb\\ttmn.png");
 		film3 = new Film("Thiên Hành Cửu Ca", "Hoạt hình 3D", "06/09/2019", "HBO CGV", "E:\\ICON\\iconWeb\\thcc.png");
-		film4 = new Film("�?ấu La đại Lục", "Hoạt hình 3D", "06/07/2019", "CGV Hùng Vương",
+		film4 = new Film("Đấu La đại Lục", "Hoạt hình 3D", "06/07/2019", "CGV Hùng Vương",
 				"E:\\ICON\\iconWeb\\dldl.png");
 	}
 
