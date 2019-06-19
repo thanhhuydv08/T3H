@@ -89,6 +89,7 @@ public class JtableShowHeader {
 			public void actionPerformed(ActionEvent e) {
 		
 				DefaultTableModel model = (DefaultTableModel) table.getModel();
+			//	table.getColumnModel().getColumn(0).setPreferredWidth(100);
 				model.addRow(new Object[]{"", "", ""});
 			}
 	});
@@ -98,3 +99,12 @@ public class JtableShowHeader {
 		
 	}
 }
+
+
+
+
+
+
+
+
+
